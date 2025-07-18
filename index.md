@@ -6,7 +6,9 @@ title: "Personal webpage"
 ### Spimees
 
 Welcome to my page!
+
 I am a dosftware engineer focusing on developing desktop application. I am aslo an independent researcher working mainly on concurrency.
+
 
 Blow is the list of my posts
 
