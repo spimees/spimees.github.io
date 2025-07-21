@@ -7,7 +7,7 @@ title: "Personal webpage"
 
 Welcome to my page!
 
-I am a dosftware engineer focusing on developing desktop application. I am aslo an independent researcher working mainly on concurrency.
+I am a dosftware engineer focusing on developing desktop application, doing independant research on concurrency in my free time.
 
 
 Blow is the list of my posts
