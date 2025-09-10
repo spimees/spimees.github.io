@@ -7,10 +7,10 @@ title: "Personal webpage"
 
 Welcome to my page!
 
-I am a dosftware engineer focusing on developing desktop application, doing independant research on concurrency in my free time.
+I am a software engineer building mainly desktop application and doing research on concurrency in my free time.
 
 
-Blow is the list of my posts
+Below is the list of my posts
 
 <span id="posts"><a href="#" class="custom-heading-3">Posts</a></span>
 <ul>
